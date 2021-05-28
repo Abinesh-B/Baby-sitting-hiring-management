@@ -6,7 +6,7 @@ public class dbo {
 
     static String URL = "localhost:3306/";
     static String DATABASE_NAME = "bhm";
-    static String USERNAME = "deepika";
+    static String USERNAME = "abinesh";
     static String PASSWORD = "pass";
 
     public static Connection getConnection() {
